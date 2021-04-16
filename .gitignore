@@ -1,3 +1,7 @@
+node/node/node_modules/
+node/node/mysql/
+!node/mysql/.gitkeep
+
 ### GO
 # Binaries for programs and plugins
 *.exe
